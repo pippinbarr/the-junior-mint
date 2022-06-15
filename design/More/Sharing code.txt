@@ -1,0 +1,3 @@
+http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.pippinbarr.com&t=Nothing+to+see+here.+Just+a+test.
+
+http://twitter.com/intent/tweet?text=text+goes+here&url=http://www.pippinbarr.com/
